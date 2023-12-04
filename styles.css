@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    margin: 0 auto;
+    width: 600px;
+    border: 3px solid #007716;
+    border-radius: 5px;
+}
+
+h1 {
+    color: #773800;
+    margin-top: 0;
+    margin-bottom: .5em;
+    text-align: center;
+}
+
+hr {
+    border: 1px solid blue;
+}
+
+h2 {
+    color: #772e00;
+    font-size: 120%;
+    padding: 0;
+    margin-bottom: .5em;
+}
+
+main {
+    padding: 1em 2em;
+    background-color: #7bdffd;
+}
+
+label {
+    float: left;
+    width: 3em;
+    text-align: right;
+}
+
+input {
+    margin-left: 1em;
+    margin-bottom: .5em;
+}
+
+p {
+    margin: 0;
+    line-height: 25px;
+}
+
+td {
+    width: 10em;
+}
+
+#errorName,
+#errorScore {
+    font-size: 12px;
+    color: red;
+    margin-left: 12%;
+}
+
+#results,
+#scroe-container {
+    border-top: 2px solid #00771c;
+    margin: 20px 0px;
+}
